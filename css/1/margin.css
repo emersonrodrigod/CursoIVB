@@ -1,0 +1,16 @@
+.container {
+    width: 780px;
+    margin: 0 auto;
+}
+
+#centralizado {
+    margin: 0 auto;
+    width: 780px;
+    border: 1px solid;
+}
+
+header {
+    background: #ff8000;
+    height: 100px;
+}
+
