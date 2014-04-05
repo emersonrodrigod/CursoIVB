@@ -1,0 +1,20 @@
+h1{
+    background: green;
+    display: inline;
+}
+
+p{
+    background: green;
+    display: inline;
+}
+
+
+a {
+    display: block;
+    height: 30px;
+    width: 200px;
+    background: black;
+    margin-bottom: 2px;
+    color: white;
+}
+
