@@ -1,0 +1,71 @@
+
+/*
+universais
+elemento
+classe
+id
+herança
+agrupados
+pseudo-seletores
+*/
+
+/* seletores de elementos */
+h1 {
+    color: red;
+}
+
+p {
+    color: pink;
+}
+
+hr {
+    background: green;
+    height: 30px;
+}
+
+/*Seletor de classe*/
+.corAzul{
+    color: blue;
+}
+
+/*Seletor de ID*/
+#titulo {
+    color: blue;
+}
+
+/*Seletores de herança*/
+#conteudo p {
+    color: red;
+}
+
+#conteudo .corAzul {
+    color: purple;
+}
+
+/*Seletores Agrupados*/
+h3, p {
+    color: red;
+}
+
+/*Universais*/
+* {
+    margin: 0 !important;
+}
+
+/*Pseudo-seletores*/
+a {
+    color: black;
+}
+
+a:hover {
+    color: yellow;
+}
+
+a:visited {
+    color: tomato;
+}
+
+
+
+
+
