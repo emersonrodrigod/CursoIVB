@@ -1,0 +1,11 @@
+#conteudo {
+    width: 300px;    
+    border: 1px solid black;
+}
+
+#conteudo p {
+    text-decoration: underline;
+    text-align: justify; /*left, right, justify*/
+}
+
+

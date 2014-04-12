@@ -1,0 +1,18 @@
+#conteudo {
+    border: 1px solid black;
+    height: 100px; /*Altura*/
+    
+    padding: 15px;
+    /*
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    */
+    
+    /*Sentido horario começando de cima*/
+    padding: 15px 10px 5px 8px;
+}
+
+
+

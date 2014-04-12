@@ -15,9 +15,9 @@
     * Exemplos de elementos Inline #### (feito!)
 3. Propriedades fundamentais do css
     * Border #### (feito!)
-    * Text
-    * Font
-    * Padding
+    * Text #### (feito!)
+    * Font #### (feito!)
+    * Padding #### (feito!)
     * Margin #### (feito!)
 4. Div´s e posicionamento de elementos
     * O que é uma DIV

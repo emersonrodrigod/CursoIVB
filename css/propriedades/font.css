@@ -1,0 +1,6 @@
+p {
+    font-size: 12px; /*Tamanho da fonte*/
+    color: blue; /*Cor da fonte*/
+    font-family: helvetica, verdana, sans-serif; /*Famila da fonte*/
+    text-transform: capitalize; /*uppercase, lowercase, capitalize*/ 
+}
