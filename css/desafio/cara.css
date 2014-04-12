@@ -1,0 +1,65 @@
+#cara {
+    width: 400px;
+    height: 400px;
+    background: black;
+    margin: 0 auto;
+    position: relative;
+}
+
+#cara div {
+    width: 50px;
+    height: 50px;
+    background: white;
+    position: absolute;
+}
+
+#cara #olhoDireito {
+    right: 15px;
+    top: 60px;
+}
+
+#cara #olhoEsquerdo {
+    left: 15px;
+    top: 60px;
+}
+
+#cara #nariz {
+    left: 175px;
+    top: 130px;
+}
+
+#boca {
+    width: 400px !important;
+}
+
+#boca div {
+    width: 30px !important;
+    height: 30px !important;
+}
+
+#boca #covinha1 {
+    top: 200px;
+    left: 15px;
+}
+
+#boca #covinha2 {
+    top: 230px;
+    left: 45px;
+}
+
+#boca #covinha3 {
+    top: 200px;
+    right: 15px;
+}
+
+#boca #covinha4 {
+    top: 230px;
+    right: 45px;
+}
+
+#boca #labio {
+    width: 250px !important;
+    top: 260px;
+    left:75px;
+}
+
