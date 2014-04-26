@@ -20,10 +20,10 @@
     * Padding #### (feito!)
     * Margin #### (feito!)
 4. Div´s e posicionamento de elementos
-    * O que é uma DIV
-    * Trabalhando com Divs
-    * propriedade position
-    * Propriedade float e clear
+    * O que é uma DIV #### (feito!)
+    * Trabalhando com Divs #### (feito!)
+    * propriedade position #### (feito!)
+    * Propriedade float e clear #### (feito!)
 5. Explorando Elementos de listagem
     * Trabalhando com listas
     * Criando um menu horizontal
