@@ -25,10 +25,10 @@
     * propriedade position #### (feito!)
     * Propriedade float e clear #### (feito!)
 5. Explorando Elementos de listagem
-    * Trabalhando com listas
-    * Criando um menu horizontal
-    * Criando um menu vertical
+    * Trabalhando com listas #### (feito!)
+    * Criando um menu horizontal #### (feito!)
+    * Criando um menu vertical #### (feito!)
 6. Trabalhando com layouts
-    * o que é um layout
-    * criando um layout básico
-    * Adicionando um menu horizontal no layout
+    * o que é um layout #### (feito!)
+    * criando um layout básico #### (feito!)
+    * Adicionando um menu horizontal no layout #### (feito!)
