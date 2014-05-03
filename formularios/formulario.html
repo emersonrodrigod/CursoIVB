@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formularios</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+
+        <form action="" method="get">
+            <fieldset>
+                <legend>Login</legend>
+                Nome: <input type="text" name="nome" placeholder="Digite seu nome" />
+                <br/>
+                email: <input type="email" name="email" required /> 
+                <br/>
+                Senha: <input type="password" name="senha" />
+                <br/>
+            </fieldset>
+
+            <!-- combobox -->
+            <select name="cidades">
+                <option value="1">Marialva</option>
+                <option value="2">Maringá</option>
+                <option value="3">Mandaguari</option>
+                <option value="4">Sarandi</option>
+            </select>
+            <br/>
+            <!-- checkbox -->
+            <input type="checkbox" name="web"> web designer
+            <input type="checkbox" name="programador"> programador
+
+            <br/>
+
+            <!-- radio buttom -->
+            <input type="radio" name="sexo" value="F"/> Feminio
+            <input type="radio" name="sexo" value="M" /> Masculino
+
+            <br/>
+
+            <textarea name="textoGrande" rows="10" cols="15" maxlength="3"></textarea>
+
+            <br/>
+            <input type="submit" value="Enviar" />
+        </form>
+
+
+    </body>
+</html>
