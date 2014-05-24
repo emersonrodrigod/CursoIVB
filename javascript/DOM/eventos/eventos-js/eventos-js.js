@@ -2,9 +2,18 @@
 var paragrafo = document.getElementById('paragrafo');
 
 paragrafo.onclick = function() {
-    alert('Funcionou!!');
-    console.log('Emerson');
-    paragrafo.style.color = 'red';
+    var paragrafoNovo = document.createElement('p');
+    paragrafoNovo.innerHTML = 'Esse é o paragrafo novo';
+    paragrafoNovo.setAttribute('class', 'paragrafo');
+
+    var conta = document.getElementsByClassName('paragrafo').length;
+
+    if (conta % 2 == 0) {
+        paragrafoNovo.style.color = 'red';
+    }
+
+    var lista = document.getElementById('lista');
+    lista.appendChild(paragrafoNovo);
 };
 
 paragrafo.onmouseover = function() {
