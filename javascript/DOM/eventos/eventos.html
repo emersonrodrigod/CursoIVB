@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body 
+        onresize="console.log('Alterou o tamanho da tela');"
+        onscroll="console.log('Barra de rolagem');"
+        >
+
+        <p onclick="console.log('emerson');">Clique aqui...</p>
+        Change: <select name='varios' onchange="alert('Trocou a opção')">
+            <option value='1'>Opção 1</option>
+            <option value='2'>Opção 2</option>
+            <option value='3'>Opção 3</option>
+        </select>
+
+        Focus: <input type='text' name='nome' 
+                      onfocus="alert('Entrou no campo');"
+                      onblur="alert('Perdeu o foco');" 
+                      />
+
+
+
+
+        <div style='height: 500px;'></div>
+    </body>
+</html>
